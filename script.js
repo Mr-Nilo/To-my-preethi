@@ -91,7 +91,7 @@ const getRandomNumber = (num) => {return Math.floor(Math.random() * (num + 1));}
     //yes page
     valentineQuestion.innerHTML = `
       <img src="./images/image7.gif" alt="Celebration duckie" style="display: block; margin: 0 auto; width: 200px; height: auto;"/>
-      Congratulations!!<br>
+      Congratulations, Preethi!!<br>
       <span style="font-size: 20px; color: #bd1e59;">You have found a pure-hearted person in your life.</span>
     `;
     valentineQuestion.style.textAlign = "center"; 
@@ -156,5 +156,6 @@ const getRandomNumber = (num) => {return Math.floor(Math.random() * (num + 1));}
   }
 
   
+
 
 
